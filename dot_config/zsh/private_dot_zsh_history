@@ -1,0 +1,29 @@
+: 1752540235:0;hyprctl monitors
+: 1752540244:0;nwg-displays
+: 1752541635:0;paru visual-studio
+: 1752542746:0;chizmoi add Kvantum
+: 1752542764:0;chezmoi add Kvantum
+: 1752542788:0;chezmoi add dunst
+: 1752542794:0;chezmoi add fastfetch
+: 1752542802:0;chezmoi add fish/
+: 1752542809:0;chezmoi add gtk-3.0
+: 1752542816:0;chezmoi add hyde
+: 1752542855:0;chezmoi remove hyde
+: 1752542862:0;chezmoi rm hyde
+: 1752542867:0;chezmoi forget hyde
+: 1752542875:0;chezmoi forget hyde/
+: 1752542884:0;chezmoi add hypr/
+: 1752542890:0;chezmoi add kitty
+: 1752542896:0;chezmoi add kitty/
+: 1752542918:0;chezmoi add menus
+: 1752542926:0;chezmoi add nwg-look
+: 1752542934:0;chezmoi add qt5ct
+: 1752542941:0;chezmoi add qt6ct
+: 1752542948:0;chezmoi add rofi/
+: 1752542957:0;chezmoi add starship
+: 1752542972:0;chezmoi add systemd/user
+: 1752542978:0;chezmoi add vim
+: 1752542986:0;chezmoi add waybar
+: 1752542994:0;chezmoi add wlogout
+: 1752542998:0;chezmoi add xsettingsd
+: 1752543005:0;chezmoi add zsh
